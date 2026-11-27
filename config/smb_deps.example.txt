@@ -1,0 +1,5 @@
+# Arcade set -> other sets from the same folder that must be copied with it.
+# One line per set; names are matched case-insensitively.
+mslug.zip: neogeo.zip
+kof98.zip: neogeo.zip
+pacmanf.zip: pacman.zip

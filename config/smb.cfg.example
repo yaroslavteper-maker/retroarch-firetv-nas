@@ -1,0 +1,9 @@
+# Copy to /storage/emulated/0/RetroArch/smb.cfg on the Fire TV (adb push).
+# Login for the network share used by smb:// paths.
+user           = "pi"
+password       = ""
+# domain       = "WORKGROUP"
+# Local cache for games copied from the share (MB). Oldest entries are evicted first.
+cache_limit_mb = 1536
+# Parent/BIOS dependency list for arcade sets (default shown)
+# deps_file    = "/storage/emulated/0/RetroArch/smb_deps.txt"

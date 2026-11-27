@@ -1,0 +1,12 @@
+# local build tree, toolchain and outputs
+build/
+jdk11*/
+out/
+work/
+inbox/
+outbox/
+build.env
+# credentials
+smb.cfg
+firetv.conf
+smb_deps.txt
